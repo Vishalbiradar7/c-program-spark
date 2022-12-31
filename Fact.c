@@ -9,4 +9,11 @@ For(i=1;i<=n;i++)
 Fact=fact*i;
 }
 Printf("\n fact=%d",fact);
+  void add()
+  {
+    int a,b,c;
+    scanf("\n%d%d",&a,&b);
+    c=a+b;
+    printf("\nC=%d",c);
+  }
 }
