@@ -13,6 +13,7 @@ Printf("\n fact=%d",fact);
   {
     int a,b,c;
     scanf("\n%d%d",&a,&b);
+    c=0;
     c=a+b;
     printf("\nC=%d",c);
   }
